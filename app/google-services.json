@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482644799743",
+    "project_id": "mingle-d5e9d",
+    "storage_bucket": "mingle-d5e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482644799743:android:310a52ef744f8a7b47dcca",
+        "android_client_info": {
+          "package_name": "com.mingle.mingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482644799743-bj24kp5cteqib7pkk2o0m1vg0igusggf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mingle.mingle",
+            "certificate_hash": "817391e1f63e7ad527c5f15cbb44b0619dc98cde"
+          }
+        },
+        {
+          "client_id": "482644799743-t0idsbpilckainev67o3b2qi84otuofk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFqQ6K-XoamGJFHlTYRtBSXWYI8eUOTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482644799743-t0idsbpilckainev67o3b2qi84otuofk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
